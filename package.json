@@ -18,7 +18,11 @@
     "test:coverage": "nwb test-react --coverage",
     "test:watch": "nwb test-react --server"
   },
-  "dependencies": {},
+  "dependencies": {
+    "debug": "~2.6.3",
+    "prop-types": "~15.5.8",
+    "scriptjs": "~2.5.8"
+  },
   "peerDependencies": {
     "react": "15.x"
   },
