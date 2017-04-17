@@ -31,11 +31,22 @@
     "react": "~15.5.4",
     "react-dom": "~15.5.4"
   },
-  "author": "",
+  "author": { 
+    "name" : "Dca Hsu",
+    "email" : "dcahsu@gmail.com",
+    "url" : "https://github.com/dca"
+  },
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dca/react-easy-ckeditor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dca/react-easy-ckeditor/issues"
+  },
   "keywords": [
-    "react-component"
+    "react-component",
+    "ckeditor"
   ]
 }
