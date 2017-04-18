@@ -14,3 +14,13 @@ Describe react-easy-ckeditor here.
 
 [coveralls-badge]: https://img.shields.io/coveralls/dca/react-easy-ckeditor/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/dca/react-easy-ckeditor
+
+# TODO
+- [ ] (docs) usage
+- [ ] (docs) spec
+- [ ] (docs) live demo
+- [ ] Custom CKEditor URL
+- [ ] Custom CKEditor config
+- [ ] use local js file
+
+
