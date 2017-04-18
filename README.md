@@ -12,5 +12,5 @@ Describe react-easy-ckeditor here.
 [npm-badge]: https://img.shields.io/npm/v/react-easy-ckeditor.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-easy-ckeditor
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://img.shields.io/coveralls/dca/react-easy-ckeditor/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/dca/react-easy-ckeditor
