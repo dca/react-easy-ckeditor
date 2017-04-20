@@ -27,6 +27,14 @@ class EasyCKEditor extends React.Component {
     })
   }
 
+  componentWillReceiveProps (nextProps) {
+    if (nextProps.textHTML !== this.props.textHTML) {
+      scriptjs.ready('ckeditor', () => {
+        this._editor.setData(unescape(nextProps.textHTML))
+      })
+    }
+  }
+
   onChange () {
     let textHTML = this._editor.getData()
 
